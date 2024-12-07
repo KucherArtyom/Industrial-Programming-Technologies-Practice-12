@@ -1,1 +1,2 @@
-# Industrial-Programming-Technologies-Practice-12
+# Industrial-Programming-Technologies-Practice-12 (ЭФМО-02-24 Кучер Артем Сергеевич)
+## Обработка ошибок, пагинация и фильтрация данных в REST API (Интернет-магазина электронники)
